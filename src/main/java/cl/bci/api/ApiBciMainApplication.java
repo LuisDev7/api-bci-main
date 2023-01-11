@@ -1,0 +1,13 @@
+package cl.bci.api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ApiBciMainApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ApiBciMainApplication.class, args);
+	}
+
+}
