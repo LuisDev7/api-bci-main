@@ -46,7 +46,6 @@ Token Administador : eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJuaXN1bUpXVCIsInN1YiI6ImFkbW
 Json Request :
 ```json
 {
-  "id": "4",
   "name": "Juan Rodriguez10",
   "email": "juan@rodriguez.org",
   "password": "Hunter2,",
